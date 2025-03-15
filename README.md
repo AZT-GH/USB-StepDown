@@ -7,7 +7,7 @@ I created this design so that I could test another board that required 3V3 and 1
 
 ## Version History
 
-V1 - Initial design ( not on repository :(  )
+V1 - Initial design ( not on repository :0 )
 
 V1.1 - Fixed missing trace from feedback resistor to ground= and tidied up some trace paths.
 
